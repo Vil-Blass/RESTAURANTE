@@ -50,7 +50,7 @@
   height: 70px;
   background: var(--fondo);
   padding: 0px 20px;
-  border: 2px solid red;
+  
 }
 
 .menu{
@@ -81,16 +81,16 @@ nav a{
 }
 
 nav > ul > li:first-child > a{
-  background-image: url(../img/house-solid.svg);
+  background-image: url(../images/house-solid.svg);
   background-size: 24px;
   background-repeat: no-repeat;
   background-position: center center;
   padding: 20px 40px;
-    
+   
 }
 
 nav > ul > li:first-child:hover > a{
-  background-image: url(../img/house-solid.png);
+  background-image: url(../images/house-solid.png);
   background-size: 24px;
   background-repeat: no-repeat;
   background-position: center center;
