@@ -21,3 +21,6 @@ function pruebacard(a) {
   console.log(count);
   window.open("/html/nosotros.html", "_blank");
 }
+
+
+
